@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/gabri/Documents/NetBeansProjects/TocaABola/src/controller/ClienteController.java</file>
+            <file>file:/C:/Users/gabri/Documents/NetBeansProjects/TocaABola/src/controller/VendaController.java</file>
+            <file>file:/C:/Users/gabri/Documents/NetBeansProjects/TocaABola/src/model/Camiseta.java</file>
+            <file>file:/C:/Users/gabri/Documents/NetBeansProjects/TocaABola/src/dao/ClienteDAO.java</file>
+            <file>file:/C:/Users/gabri/Documents/NetBeansProjects/TocaABola/src/view/TelaCadastroCliente.java</file>
+            <file>file:/C:/Users/gabri/Documents/NetBeansProjects/TocaABola/src/model/Venda.java</file>
+            <file>file:/C:/Users/gabri/Documents/NetBeansProjects/TocaABola/src/dao/CamisetaDAO.java</file>
+            <file>file:/C:/Users/gabri/Documents/NetBeansProjects/TocaABola/src/view/TelaCadastroAcessorio.java</file>
+            <file>file:/C:/Users/gabri/Documents/NetBeansProjects/TocaABola/src/view/TelaRealizarVenda.java</file>
+            <file>file:/C:/Users/gabri/Documents/NetBeansProjects/TocaABola/src/view/TelaPrincipal.java</file>
+            <file>file:/C:/Users/gabri/Documents/NetBeansProjects/TocaABola/src/dao/VendaDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
